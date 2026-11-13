@@ -1,7 +1,3 @@
-# gyunamkim.com
-Personal UX/Product Design Portfolio
-
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -26,3 +22,12 @@ Personal UX/Product Design Portfolio
 </head>
 <body>
   <main>
+    <p>PRODUCT DESIGN PORTFOLIO</p>
+    <h1>Gyunam Kim</h1>
+    <p>
+      복잡한 프로덕트를 구조화하고,<br>
+      일관되고 확장 가능한 경험을 설계합니다.
+    </p>
+  </main>
+</body>
+</html>
